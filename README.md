@@ -1,2 +1,2 @@
 # PoeWatchBot
-Chat bot made for twitch
+Chat bot made for twitch by Vertex101
